@@ -1,3 +1,3 @@
 Content
 
-{% include navlinks %}
+{% include navlinks.html %}
